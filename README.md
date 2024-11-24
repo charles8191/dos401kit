@@ -58,4 +58,6 @@ A>copy C:\BIN\COMMAND.COM B:
 
 Now close QEMU, and you should have a DOS 4.01 diskette at `output.img` compiled from scratch!
 
-DOS 4.01 and 5.0 bootdisks are from [AllBootDisks.com](https://www.allbootdisks.com/), DOS 4.01 is from [neozeed](https://github.com/neozeed/dos400)
+## Credits
+
+DOS 4.01 and 5.0 bootdisks are from [AllBootDisks.com](https://www.allbootdisks.com/), DOS 4.01 is from [neozeed](https://github.com/neozeed/dos400).
