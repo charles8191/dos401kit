@@ -56,4 +56,4 @@ A>sys C:\BIN B:
 A>copy C:\BIN\COMMAND.COM B:
 ```
 
-Now you should have a disk!
+Now close QEMU, and you should have a DOS 4.01 diskette at `output.img` compiled from scratch!
