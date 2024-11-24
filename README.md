@@ -1,12 +1,12 @@
 # DOS 4.01 compiling kit
 
-First, get started by extracting the hard drive with the code (from [here](https://github.com/neozeed/dos400)):
+First, get started by extracting the hard drive with the code:
 
 ```
 $ unxz -k code.raw.xz
 ```
 
-You can create this yourself by formatting a raw disk using DOS, then copying the contents of the Git repo to `\SRC`.
+You can create this yourself by formatting a raw disk using DOS, then copying the contents of the DOS 4.01 repo zipball linked at the bottom to `\SRC`.
 
 
 Now, spawn a QEMU instance with the DOS 5 bootdisk and the hard drive:
@@ -60,4 +60,4 @@ Now close QEMU, and you should have a DOS 4.01 diskette at `output.img` compiled
 
 ## Credits
 
-DOS 4.01 and 5.0 bootdisks are from [AllBootDisks.com](https://www.allbootdisks.com/), DOS 4.01 is from [neozeed](https://github.com/neozeed/dos400).
+DOS 4.01 and 5.0 bootdisks are from [AllBootDisks.com](https://www.allbootdisks.com/), DOS 4.01 source code is from [neozeed](https://github.com/neozeed/dos400).
